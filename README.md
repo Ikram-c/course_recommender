@@ -4,7 +4,7 @@
 
 The aim of this project was to use various machine learning models for a course recommender system. The dataset which was used was the IBM Course Recommendations dataset which is a collection of data related to IBM courses (specifically those on python) and the interactions students had with them (these were saved as CSVs).
 
-For this project both supervised and unsupervised models were used which were then compared with each other. The project itself consists of several notebooks (listed below) . This project was part of the work done for the IBM Machine Learning Professional certificate.
+For this project both supervised and unsupervised models were used which were then compared with each other. The project itself consists of several notebooks (listed below) . This project was part of the work done for the IBM Machine Learning Professional certificate. An ERD is also included
 
 The machine learning models used for this project included:
 
